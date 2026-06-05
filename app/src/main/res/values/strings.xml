@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Booster FF Anti Lag</string>
+    <string name="admob_app_id">ca-app-pub-6718038985057828~3801271527</string>
+    <string name="admob_banner_id">ca-app-pub-6718038985057828/5364644957</string>
+    <string name="admob_interstitial_id">ca-app-pub-6718038985057828/4460277306</string>
+    <string name="admob_rewarded_id">ca-app-pub-6718038985057828/7252441697</string>
+</resources>
